@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayan-khan79&label=Profile%20views&color=0e75b6&style=flat" alt="ayan-khan79" /> </p>
 
-- 🔭 I’m currently working on [Efficient-Navigation-System](https://github.com/Ayan-Khan79/Efficient-Navigation-System)
+- 🔭 I’m currently working on Travel Tracker (https://github.com/Ayan-Khan79/Travel-Tracker)
 
-- 🌱 I’m currently learning **Node Js., React js. Databases**
+- 🌱 I’m currently learning **Node.Js, Javascript, Express.js Databases**
 
 - 📫 How to reach me **ayankhan790521@gmail.com**
 
