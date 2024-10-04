@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on Travel Tracker (https://github.com/Ayan-Khan79/Travel-Tracker)
 
-- 🌱 I’m currently learning **Node.Js, Javascript, Express.js Databases**
+- 🌱 I’m currently learning **Node.Js, Javascript, Express.js Databases React.js**
 
 - 📫 How to reach me **ayankhan790521@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1v4jCJZlje02bF7i2O3gAypwDw0gjfeR6/view?usp=drive_link](https://drive.google.com/file/d/1v4jCJZlje02bF7i2O3gAypwDw0gjfeR6/view?usp=drive_link)](https://drive.google.com/file/d/1i9FJhg35uwEGfmqDTN2JBDhBYU5Ifl9r/view?usp=drive_link)
+- 📄 Know about my experiences [[[https://drive.google.com/file/d/1v4jCJZlje02bF7i2O3gAypwDw0gjfeR6/view?usp=drive_link]](https://drive.google.com/file/d/1eqQugiZ04Zuix9cEJdbWlIj77tNxwrep/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
