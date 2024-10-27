@@ -155,8 +155,8 @@
   <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" height="40" width="40" />
 </a>
 <a href="https://leetcode.com/u/Ayan79/" target="_blank" style="margin-right: 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/Ayan-Khan79/Ayan-khan79/refs/heads/main/leetcode-1.svg" alt="Leetcode Profile" height="50" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/Ayan-Khan79/Ayan-khan79/refs/heads/main/leetcode-1.svg" alt="Leetcode Profile" height="40" width="40" />
   </a>
 <br>
 <br>
-<a href="https://holopin.me/@ayankhan79">   <img src="https://holopin.me/@ayankhan79" alt="@@ayankhan79 Holopin board" /> </a>
+<a href="https://holopin.me/@ayankhan79">   <img src="https://holopin.me/@ayankhan79" alt="@ayankhan79 Holopin board" /> </a>
