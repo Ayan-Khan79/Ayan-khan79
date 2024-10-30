@@ -70,7 +70,7 @@
   <table>
     <tr align="center">
       <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
-        <a href="">
+        <a href="https://gssoc.girlscript.tech/">
           <img src="https://github.com/Ayan-Khan79/Ayan-Khan79/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
           <br>
           <strong>GirlScript Summer of Code</strong>
@@ -84,6 +84,11 @@
               <img src="https://github.com/Ayan-Khan79/Ayan-Khan79/blob/main/Explorer Badge.png" alt="Explorer Badge" width="80" />
               <br>
               <strong>Explorer Badge</strong>
+            </td>
+	<td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/Ayan-Khan79/Ayan-Khan79/blob/main/Git explorer.jpg" alt="Git Explorer Badge" width="80" />
+              <br>
+              <strong>Git Explorer Badge</strong>
             </td>
           </tr>
         </table>
