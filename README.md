@@ -97,6 +97,14 @@
           </tr>
         </table>
       </td>
+	    <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+        <a href="https://api.badgr.io/public/assertions/rvIkGOfMTJ-p9RQEB260BQ?identity__email=ayankhan790521%40gmail.com">
+          <img src="https://github.com/Ayan-Khan79/Ayan-Khan79/blob/main/Postman-Api-Fundamentals.png" alt="Postman API Fundamentals Expert" width="120" />
+          <br>
+          <strong>Postman API Fundamentals Expert</strong>
+        </a>
+        <br>
+      </td>
     </tr>
   </table>
 </div> 
@@ -122,3 +130,4 @@
 <br>
 <br>
 <a href="https://holopin.me/@ayankhan79">   <img src="https://holopin.me/@ayankhan79" alt="@ayankhan79 Holopin board" /> </a>
+
