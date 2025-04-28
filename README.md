@@ -129,5 +129,7 @@
   </a>
 <br>
 <br>
+<h2 align="center">My Holopin Badges</h2>
+
 <a href="https://holopin.me/@ayankhan79">   <img src="https://holopin.me/@ayankhan79" alt="@ayankhan79 Holopin board" /> </a>
 
