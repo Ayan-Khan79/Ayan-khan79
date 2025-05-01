@@ -18,9 +18,10 @@
 	<p>}</p>	
 <br><br> Vibing to: 🎧</strong></p>
   <!-- Streak feature -->
-  <p><img src="https://github-readme-streak-stats.herokuapp.com?user=Ayan-Khan79&theme=github-dark&hide_border=true" alt="GitHub Streak" /></p>
+	<p align="center">
+	  <img src="https://streak-stats.demolab.com?user=Ayan-Khan79&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+	</p>
 </div>
-
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayan-Khan79&theme=github_dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayan-Khan79&theme=github_dark"  />
