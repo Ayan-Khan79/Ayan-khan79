@@ -45,7 +45,7 @@
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,postgres&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
@@ -53,7 +53,7 @@
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,npm,postman&theme=dark"></td>
 </tr>
 
 <tr>
