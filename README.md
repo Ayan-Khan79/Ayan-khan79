@@ -3,6 +3,7 @@
   <a href="https://www.linkedin.com/in/mohammadayan-299344241/"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Ananya LinkedIn" height='20' width='90'/>
   </a>
+	<br>
   <a href="https://github.com/Ayan-Khan79"> 
     <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Ananya GitHub" height='20' width='80'/>  
   </a>
