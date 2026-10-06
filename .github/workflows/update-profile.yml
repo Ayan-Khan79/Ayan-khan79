@@ -1,0 +1,25 @@
+name: Update contribution heatmap
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r scripts/requirements.txt
+      - run: python scripts/fetch_contributions.py
+      - run: python scripts/render_heatmap_svg.py
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: refresh contribution heatmap [skip ci]"
+          file_pattern: "data/contributions.json assets/contrib-heatmap.svg"
