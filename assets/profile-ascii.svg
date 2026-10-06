@@ -1,63 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="377" height="614" viewBox="0 0 377 614">
-<rect width="100%" height="100%" rx="12" fill="#0d1117"/>
-<style>
-.ascii{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace;font-size:10px;font-weight:600;fill:#c9d1d9;}
-.row{opacity:0;animation:reveal .65s ease-out forwards;}
-@keyframes reveal{0%{opacity:0;transform:translateX(-14px)}60%{opacity:1;transform:translateX(2px)}100%{opacity:1;transform:translateX(0)}}
-</style>
-<text x="14" y="13" fill="#58a6ff" font-family="ui-monospace,monospace" font-size="8">mohammad-ayan.svg</text>
-<text class="ascii row" x="10" y="25">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##%%%%%%%%%###########%</text>
-<text class="ascii row" x="10" y="36">%%%%%%%%%%%%%%%%%%%%%%%%%%#*++++*#%%%%%%%%%%%%%##########%</text>
-<text class="ascii row" x="10" y="47">%%%%%%%%%%%%%%%%%%%%%%%%+.        :=#%%%%%%%%%###########%</text>
-<text class="ascii row" x="10" y="58">%%%%%%%%%%%%%%%%%%%%%%%#.:=+++:     -%%%%%%%%%%##########%</text>
-<text class="ascii row" x="10" y="69">%%%%%%%%%%%%%%%%%%%%%%@+:-==---::   =%%%%%%%%%%%#########%</text>
-<text class="ascii row" x="10" y="80">%%%%%%%%%%%%%%%%%%%%%%%#: =- ..-+:  *%%%%%%%%%%%%%#######%</text>
-<text class="ascii row" x="10" y="91">%%%%%%%%%%%%%%%%%%%%%%%#+--:-+**+-:=%%%%%%%%%%%%%%%%#####%</text>
-<text class="ascii row" x="10" y="102">%%%%%%%%%%%%%%%%%%%%%%%+:   .:-:: +%%%%%%%%%%%%%%%%%%%###%</text>
-<text class="ascii row" x="10" y="113">%%%%%%%%%%%%%%%%%%%%%%%*         .%%%%%%%%%%%%%%%%%%%%%##%</text>
-<text class="ascii row" x="10" y="124">%%%%%%%%%%%%%%%%%%%%%%%@#        :=%%%@%%%%%%%%%%%%%%%%##%</text>
-<text class="ascii row" x="10" y="135">%%%%%%%%%%%%%%%%%%%%%#+-:          .-=*#%%%%%%%%%%%%%%%##%</text>
-<text class="ascii row" x="10" y="146">%%%%%%%%%%%%%%%%%*+-:        ...  .   .:-=*%%%%%%%%%%%%##%</text>
-<text class="ascii row" x="10" y="157">%%%%%%%%%%%%%%%=..    .      .       .... .:+%%%%%%%%%%%#%</text>
-<text class="ascii row" x="10" y="168">%%%%%%%%%%%%%#:      .               ..      =%%%%%%%%%%#%</text>
-<text class="ascii row" x="10" y="179">%%%%%%%%%%#%#.                                =%%%%%%%%%#%</text>
-<text class="ascii row" x="10" y="190">#%%%%%%####%=                                  #%%%%%%%%%%</text>
-<text class="ascii row" x="10" y="201">#%%%########.                                  -%%%%%%%%%%</text>
-<text class="ascii row" x="10" y="212">%#########%-                                    #%%%%%%%%%</text>
-<text class="ascii row" x="10" y="223">###########                                     +%%%%%%%%%</text>
-<text class="ascii row" x="10" y="234">%%%##%#######%%##=-                             :%%%%%%%%%</text>
-<text class="ascii row" x="10" y="245">######***#%@@@@@@@%=.                            #%#%%%%%%</text>
-<text class="ascii row" x="10" y="256">########%@@@@@%%%%%%#=-:..                       =%#%%%%%#</text>
-<text class="ascii row" x="10" y="267">*******%@@%%#++#%%%%@@%=-=-                      .%##%%%%%</text>
-<text class="ascii row" x="10" y="278">####*#%@%%##*+#%%%%%##:-:::               +       #%#%%%%%</text>
-<text class="ascii row" x="10" y="289">####%@%%###%##%%%@%##*                    =        *%#%%%%</text>
-<text class="ascii row" x="10" y="300">####%####%###%%%%%##%-.:-                         -%##%%%%</text>
-<text class="ascii row" x="10" y="311">###**##%%%%%%%%%###%+:+##.                .    .=*#%#%%%%%</text>
-<text class="ascii row" x="10" y="322">####**%%%%%%%%%####*.+#%#           =--+*#-   =%%%%%%%%%%%</text>
-<text class="ascii row" x="10" y="333">#######%%@@@%######::#%%*-=+===++*#%%@@@@@*-.:%%#%%%%%%%%%</text>
-<text class="ascii row" x="10" y="344">##################= *#%%*+*#%%@@@@@@@%%%%%@+-+#%%%%%%%%%%%</text>
-<text class="ascii row" x="10" y="355">########*****####+.-##%%#*##%#%%%%%%%%%%%%%#*%%%%%%%%%%%%%</text>
-<text class="ascii row" x="10" y="366">##########****#**=-*##%%**##%##%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
-<text class="ascii row" x="10" y="377">#############**+++*###%%#####*####%%%%%%%%#%#%%%%%%%%%%%%%</text>
-<text class="ascii row" x="10" y="388">###############*+*####%%###%%+*####%%%%%%%%%%%%%%%%%%%%%%%</text>
-<text class="ascii row" x="10" y="399">#################*****####%%#***###%%%%%%%#%%%%%%%%%%%%%%%</text>
-<text class="ascii row" x="10" y="410">##################****####%###**###%%%%%%%%%%%%%%%%%%%%%%%</text>
-<text class="ascii row" x="10" y="421">#####################%%%#%%##****##%%%%%%%%%%%%%%%%%%%%%%%</text>
-<text class="ascii row" x="10" y="432">#####################%%%%%%#*****###%%%%%%%%#%%%%%%%%%%%%%</text>
-<text class="ascii row" x="10" y="443">#####################%%%%%#******###%%%%%#%%%%%%%%%%%%%%%%</text>
-<text class="ascii row" x="10" y="454">####################%%%%%%#****#*####%%%#####%%%%%%%%%%%%%</text>
-<text class="ascii row" x="10" y="465">####################%%%%%%#****#**###%#%%#####%%%%%%%%%%%%</text>
-<text class="ascii row" x="10" y="476">%%%%%%%%############%%#%%#***###*######%#####%%%%%%%#%%%%%</text>
-<text class="ascii row" x="10" y="487">##########*****+*#%##%%%%*+*+++**####%%%*****######*****#*</text>
-<text class="ascii row" x="10" y="498">**********+++++++#%%%%%%#+++++++*###%%%#+++*********####**</text>
-<text class="ascii row" x="10" y="509">*******+**+++++++%%%%%%%#+++++==*###%%%#++===++++++***++=+</text>
-<text class="ascii row" x="10" y="520">***********+++++*%%%%%%%#++++++**##%%%%#*****#*****#**###*</text>
-<text class="ascii row" x="10" y="531">%%%%%%%%%%%%%%%%%%%%%%%%#%%%%%%%######%%%%%%%%%%%%%%%%%%%%</text>
-<text class="ascii row" x="10" y="542">%%%%%%%%%%%%%%%%%%%%%%%#%%%%%%%%####%%%%%%%%%%%%%%%%%%%%%%</text>
-<text class="ascii row" x="10" y="553">%%%%%%%%%%%%%%%%%@%%%%##%%%%%%#%%%%%%#%%%%%%%%%%%%%%%%@%%%</text>
-<text class="ascii row" x="10" y="564">%%@@@@%@@@@@@@@%#%%%%%%#%%%%%##%##%%%%%%%%%%%%%%%@@%%%%%%%</text>
-<text class="ascii row" x="10" y="575">======++=------#%%##%%**+:=--++--+*##=:-=++====++***+++++=</text>
-<text class="ascii row" x="10" y="586">########****#*:+%%@%#=+#*+****+=-      -###############%##</text>
-<text class="ascii row" x="10" y="597">@@@@@@@@@@@%+.   :::  =##%#####*+:      +%%%%%%%%%%%%%%%%@</text>
-<text class="ascii row" x="10" y="608">%%%%%%%%%%+.        .=*##%#%#%%#*=.      *%%%%%%%%%%%%%%%%</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="750" viewBox="0 0 760 750"><rect width="100%" height="100%" rx="14" fill="#0d1117"/><style>.r{font:700 12px monospace;fill:#c9d1d9;opacity:0;animation:in .55s ease-out forwards}.t{font:700 16px monospace;fill:#58a6ff}@keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:translateX(0)}}</style><text class="t" x="24" y="30">mohammad-ayan@github:~$ ./portrait.sh</text>
+<text class="r" style="animation-delay:.2s" x="24" y="54">%%%%######%%###%%%%@@@%%%%%@@@%%%%%###+=======================</text>
+<text class="r" style="animation-delay:.235s" x="24" y="68">%%########%%%####%%%@@@@@%%%@@@@@@%#%%*+======================</text>
+<text class="r" style="animation-delay:.27s" x="24" y="82">##********##%%#####%%%%@@@@%%@@@@@@%%%%*+=====================</text>
+<text class="r" style="animation-delay:.305s" x="24" y="96">************%%##***##%%%@%%@%%@@@%@@@%%#+=====================</text>
+<text class="r" style="animation-delay:.34s" x="24" y="110">*+**********#%##**###%%%%%%%%%%@@%%@@@%#+=====================</text>
+<text class="r" style="animation-delay:.375s" x="24" y="124">***********##%%%%%@@@@@@%%%%%%#%%@%@@@@%+=====================</text>
+<text class="r" style="animation-delay:.41s" x="24" y="138">%%###*****##%@@@@@@@@@@@@@@%%%###%@%%@@#======================</text>
+<text class="r" style="animation-delay:.445s" x="24" y="152">@@%%%%#####%%%@@@@@@@@%%%%%%####+*%%%@#=======================</text>
+<text class="r" style="animation-delay:.48s" x="24" y="166">@@%%%%######%%@%@@@@@%########***+%%%*========================</text>
+<text class="r" style="animation-delay:.515s" x="24" y="180">@@@%%%%#***##%@@@@@@@%%%#####****+#%#+========================</text>
+<text class="r" style="animation-delay:.55s" x="24" y="194">@@@@@@#++++**#%%@@@@@@@%%###***+++*%#+========================</text>
+<text class="r" style="animation-delay:.585s" x="24" y="208">@@@@%#+==+++****##%%%%%%##**++++==+%#+========================</text>
+<text class="r" style="animation-delay:.62s" x="24" y="222">% @%#*++=====+++**++*****++++++++==+#%*========================</text>
+<text class="r" style="animation-delay:.655s" x="24" y="236">**++++=======+++**++++========+++=+*%#========================</text>
+<text class="r" style="animation-delay:.69s" x="24" y="250">++++++==++++++++++***++++++=+++++++*%#========================</text>
+<text class="r" style="animation-delay:.725s" x="24" y="264">+++++*#*****#%%%%*++***++++++++++++*#*========================</text>
+<text class="r" style="animation-delay:.76s" x="24" y="278">++++*%@@@%%%%@@@%#********+++++++++*#*+============+++++++++++</text>
+<text class="r" style="animation-delay:.795s" x="24" y="292">++++#%@@@@@@@@@@@%%%%%%%#***********#*+++++++++++++*++++++++++</text>
+<text class="r" style="animation-delay:.83s" x="24" y="306">###%%@@@@@@@@@@@@@@@@@@@%%******#####*+++++++=================</text>
+<text class="r" style="animation-delay:.865s" x="24" y="320">%@@%@@@@@@@@@@@@@@@@@@@@@%#***##%%%#%*========================</text>
+<text class="r" style="animation-delay:.9s" x="24" y="334">@@@@@@@@@@@%%%%%%%%@@@@@@@%###%%%%%%#+========================</text>
+<text class="r" style="animation-delay:.935s" x="24" y="348">@@@@@@@%%%%%%%%%%##%%@@@@@@%%%%%%%%%+=========================</text>
+<text class="r" style="animation-delay:.97s" x="24" y="362">@@@@@%%%%@@@@@@@@@@%%@@@@@@@@@@@@@%*==========================</text>
+<text class="r" style="animation-delay:1.005s" x="24" y="376">@@@@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@#===========================</text>
+<text class="r" style="animation-delay:1.04s" x="24" y="390">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*+=+*+======================</text>
+<text class="r" style="animation-delay:1.075s" x="24" y="404">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@#++++****+===================</text>
+<text class="r" style="animation-delay:1.11s" x="24" y="418">@@@@@@@@@@@@@@@@@@@@@@@@@@@%##*%@%++++++++++==++++++++========</text>
+<text class="r" style="animation-delay:1.145s" x="24" y="432">@@@@@@@@@@@@@@@@@@@@@@@@@@%###*#@#++++++++==+**++++=+*+=++====</text>
+<text class="r" style="animation-delay:1.18s" x="24" y="446">@@@@@@@@@@@@@@@@@@@@@@@%%%%%######*++*+*+=++=+***##+=**+*++===</text>
+<text class="r" style="animation-delay:1.215s" x="24" y="460">@@@@@@@@@@@@@@@@@@@@@@%%%%%%######**+*****+*****#%%%***+*+*+==</text>
+<text class="r" style="animation-delay:1.25s" x="24" y="474">%%@@@@@@@@@@@@@@@@@@@@@@%%%####********+%@@@@@%**#*#%%#+***++=</text>
+<text class="r" style="animation-delay:1.285s" x="24" y="488">%%@@@%%%@@@@@@@@@@@@@%%%%###%%###*****+*%##%%%%%#+++##%#***++</text>
+<text class="r" style="animation-delay:1.32s" x="24" y="502">%%@@@@@@@@@@@@@@@@%%%%%%###%%##*#******##*++*#*#%**+**##**++=*</text>
+<text class="r" style="animation-delay:1.355s" x="24" y="516">%#%@@@@@@@@@@@@%%%%%%%######***###%####***+++***###*+*#***+***</text>
+<text class="r" style="animation-delay:1.39s" x="24" y="530">%###%%%%%%%@@@@@%%%%%%###%%%%@@@%%#*+*#***+++**+*###*+*#*****#</text>
+<text class="r" style="animation-delay:1.425s" x="24" y="544">##**###%%%#%%%%%%%%####%%%%%#####****+*#***++*+++*#*#***#*###*</text>
+<text class="r" style="animation-delay:1.46s" x="24" y="558">##*****##%##%##*##*#####**##****#****++*##**+++**+**###**#*#%#</text>
+<text class="r" style="animation-delay:1.495s" x="24" y="572">#******####*###*##*#*#*##****+********++*###*+*****+*###***##*</text>
+<text class="r" style="animation-delay:1.53s" x="24" y="586">************#********#**#+***+*******#**+*###****##*+*##***##*</text>
+<text class="r" style="animation-delay:1.565s" x="24" y="600">#*************#****###**#****+++**+******+**##***%##***#######</text>
+<text class="r" style="animation-delay:1.6s" x="24" y="614">#**********************+##***++++++*****#***###**#%%#*****####</text>
+<text class="r" style="animation-delay:1.635s" x="24" y="628">#*****+****+*****#*****+#%*##*+++++++****#***#**+*#@%%###*###*</text>
+<text class="r" style="animation-delay:1.67s" x="24" y="642">******+****+*****#*******%*###*+++++++++*##***##***#%%@%%#%#%#</text>
+<text class="r" style="animation-delay:1.705s" x="24" y="656">******+****+*************######****++++++*###*###***##%%%%%%%#</text>
+<text class="r" style="animation-delay:1.74s" x="24" y="670">******+****+****+**+****+***###**#**++++++****###***#*#%%%%%%#</text>
+<text class="r" style="animation-delay:1.775s" x="24" y="684">*******************+****+**+*###*###*+*+++++++*###**#*##%@%%%#</text>
+<text class="r" style="animation-delay:1.81s" x="24" y="698">**********#**###***********+***#*####*****+++++*****#####%%%%%</text>
+<text class="r" style="animation-delay:1.845s" x="24" y="712">**********#**###*****##**+*+*****####*##**++++++****####%%%%%%</text></svg>
