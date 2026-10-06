@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="430" viewBox="0 0 560 430">
+<style>
+.card{fill:#0d1117;stroke:#30363d;stroke-width:2}
+.title{font:700 18px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#58a6ff}
+.key{font:600 14px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#8b949e}
+.val{font:500 14px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#c9d1d9}
+.accent{fill:#3fb950}
+.row{opacity:0;animation:fade .55s ease-out forwards}
+@keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+</style>
+<rect class="card" x="1" y="1" rx="14" width="558" height="428"/>
+<circle cx="24" cy="25" r="6" fill="#ff7b72"/><circle cx="44" cy="25" r="6" fill="#d29922"/><circle cx="64" cy="25" r="6" fill="#3fb950"/>
+<text x="90" y="31" class="title">ayan@github:~$ neofetch</text>
+<g class="row" style="animation-delay:.15s"><text x="28" y="75" class="key">name</text><text x="160" y="75" class="val">Mohammad Ayan</text></g>
+<g class="row" style="animation-delay:.25s"><text x="28" y="108" class="key">role</text><text x="160" y="108" class="val">Software Engineer</text></g>
+<g class="row" style="animation-delay:.35s"><text x="28" y="141" class="key">focus</text><text x="160" y="141" class="val">Full Stack Development</text></g>
+<g class="row" style="animation-delay:.45s"><text x="28" y="174" class="key">interests</text><text x="160" y="174" class="val">AI / ML</text></g>
+<g class="row" style="animation-delay:.55s"><text x="28" y="207" class="key">learning</text><text x="160" y="207" class="val accent">AI Automation</text></g>
+<line x1="28" y1="228" x2="532" y2="228" stroke="#30363d"/>
+<g class="row" style="animation-delay:.65s"><text x="28" y="258" class="key">frontend</text><text x="160" y="258" class="val">React · Vite · Tailwind</text></g>
+<g class="row" style="animation-delay:.75s"><text x="28" y="289" class="key">backend</text><text x="160" y="289" class="val">Node · Express · Firebase</text></g>
+<g class="row" style="animation-delay:.85s"><text x="28" y="320" class="key">database</text><text x="160" y="320" class="val">PostgreSQL · MongoDB</text></g>
+<g class="row" style="animation-delay:.95s"><text x="28" y="351" class="key">languages</text><text x="160" y="351" class="val">C++ · Python · JavaScript</text></g>
+<g class="row" style="animation-delay:1.05s"><text x="28" y="382" class="key">status</text><text x="160" y="382" class="val accent">Building something new...</text></g>
+</svg>
