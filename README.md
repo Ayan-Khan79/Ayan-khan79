@@ -217,14 +217,6 @@ A machine-learning project exploring Formula 1 data and predictive modelling.
 
 <br>
 
-<a href="https://leetcode.com/u/Ayan79/">
-
-<img
-  src="https://leetcode-stats-six.vercel.app/Ayan79/graph?theme=dark&width=700"
-  alt="Mohammad Ayan LeetCode Submission Graph"
-/>
-
-</a>
 
 </div>
 
